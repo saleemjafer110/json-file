@@ -1,29 +1,18 @@
 {
     "perfume":[
-        {"id":1,"name":"perfume1","price":20000,"image":"images/nissan gtr.png"},
-        {"id":2,"name":"perfume1","price":20000,"image":""},
-        {"id":3,"name":"perfume1","price":20000,"image":""},
-        {"id":4,"name":"perfume1","price":20000,"image":""}
+        {"id":1,"name":"boss","price":20000,"image":"images/Eternity.jpg"},
+        {"id":2,"name":"ck","price":20000,"image":"images/p2.jpeg"},
+        {"id":3,"name":"dunhill","price":20000,"image":"images/p3.jpeg"},
+        {"id":4,"name":"savage","price":20000,"image":"images/p4.jpeg"}
     ],
     "cars":[
-        {"id":5,"name":"perfume1","price":20000,"image":""},
-        {"id":6,"name":"perfume1","price":20000,"image":""},
-        {"id":7,"name":"perfume1","price":20000,"image":""},
-        {"id":8,"name":"perfume1","price":20000,"image":""}
-    ],
-
-    "books":[
-        {"id":5,"name":"perfume1","price":20000,"image":""},
-        {"id":6,"name":"perfume1","price":20000,"image":""},
-        {"id":7,"name":"perfume1","price":20000,"image":""},
-        {"id":8,"name":"perfume1","price":20000,"image":""}
-    ],
-    "gifts":[
-        {"id":5,"name":"perfume1","price":20000,"image":""},
-        {"id":6,"name":"perfume1","price":20000,"image":""},
-        {"id":7,"name":"perfume1","price":20000,"image":""},
-        {"id":8,"name":"perfume1","price":20000,"image":""}
+        {"id":5,"name":"toyota","price":20000,"image":""},
+        {"id":6,"name":"honda","price":20000,"image":""},
+        {"id":7,"name":"suzuki","price":20000,"image":""},
+        {"id":8,"name":"mg","price":20000,"image":""}
     ]
+
+    
 
     
 }
